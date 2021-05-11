@@ -1,0 +1,16 @@
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\bin\Debug\net5.0\AIAS_Lab3.exe
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\bin\Debug\net5.0\AIAS_Lab3.deps.json
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\bin\Debug\net5.0\AIAS_Lab3.runtimeconfig.json
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\bin\Debug\net5.0\AIAS_Lab3.runtimeconfig.dev.json
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\bin\Debug\net5.0\AIAS_Lab3.dll
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\bin\Debug\net5.0\ref\AIAS_Lab3.dll
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\bin\Debug\net5.0\AIAS_Lab3.pdb
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\obj\Debug\net5.0\AIAS_Lab3.csprojAssemblyReference.cache
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\obj\Debug\net5.0\AIAS_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\obj\Debug\net5.0\AIAS_Lab3.AssemblyInfoInputs.cache
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\obj\Debug\net5.0\AIAS_Lab3.AssemblyInfo.cs
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\obj\Debug\net5.0\AIAS_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\obj\Debug\net5.0\AIAS_Lab3.dll
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\obj\Debug\net5.0\ref\AIAS_Lab3.dll
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\obj\Debug\net5.0\AIAS_Lab3.pdb
+C:\Users\lizas\RiderProjects\AIAS_Lab3\AIAS_Lab3\obj\Debug\net5.0\AIAS_Lab3.genruntimeconfig.cache

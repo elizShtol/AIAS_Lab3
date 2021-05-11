@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=acb9670f_002Dd8f3_002D496d_002D9a23_002Df5b74fb2b866/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MatrixTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98AECBF9-88ED-4F2C-B0BB-B358091A1B1E::net5.0::AIAS_Lab3_Tests.MatrixTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98AECBF9-88ED-4F2C-B0BB-B358091A1B1E::net5.0::AIAS_Lab3_Tests.LinearEquationsSystemsSolverTests.Solve&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98AECBF9-88ED-4F2C-B0BB-B358091A1B1E::net5.0::AIAS_Lab3_Tests.LinearEquationsSystemsSolverTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
